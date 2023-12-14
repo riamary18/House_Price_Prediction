@@ -1,1 +1,2 @@
 # House_Price_Prediction
+The objective of this project is to predict the prices of houses in California. In this process, Pandas is employed for data analysis, while Numpy is utilized for data manipulation. For visualization purposes, Matplotlib and Seaborn are incorporated. The data has undergone fine-tuning to enhance precision in the results. After experimenting with various models, it was determined that the Random Forest Regressor relatively yielded the most accurate results. Consequently, we settled on this model and generated predictions using the test dataset.
